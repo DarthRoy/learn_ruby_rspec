@@ -1,3 +1,8 @@
+EXOS Jusqu'au 4 inclus. 4_simon_says
+En pair programming avec ma bitch Nassim gros(se) !
+
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
