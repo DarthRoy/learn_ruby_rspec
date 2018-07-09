@@ -1,5 +1,5 @@
 EXOS Jusqu'au 4 inclus. 4_simon_says
-En pair programming avec ma bitch Nassim gros(se) !
+Brice P, en pair programming avec ma bitch Nassim, gros(se) !
 
 
 
